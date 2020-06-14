@@ -44,7 +44,7 @@ body {
   width: 100%;
   position: absolute;
   content: "";
-  width: 58%;
+  width: 72%;
   top: 8px;
   height: 2px;
   background: #c2c2c2;
@@ -71,9 +71,9 @@ body {
   width: 100%;
   position: absolute;
   content: "";
-  width: 70%;
+  width: 74%;
   top: 8px;
-  height: 2px;
+  height: 3px;
   background: #c2c2c2;
   right: 0;
 }
@@ -97,7 +97,7 @@ body {
   width: 100%;
   position: absolute;
   content: "";
-  width: 45%;
+  width: 73%;
   top: 8px;
   height: 2px;
   background: #c2c2c2;
@@ -107,12 +107,13 @@ body {
 .header-title {
   font-size: 24px;
   line-height: 28px;
-  margin: auto 635px auto 0;
+  margin: auto 535px auto 0;
 }
 
 .navigation-item-link {
   text-decoration: none;
   color: #202020;
+  font-size: 20px;
 }
 
 .navigation-item-link:hover,
@@ -145,12 +146,12 @@ body {
 }
 
 .header-button{
-  font-size: 14px;
-  line-height: 16px;
+  font-size: 16px;
+  line-height: 20px;
   border: none;
   background:#5528FF;
   color:#FFF;
-  border-radius:5px;
+  border-radius:20px;
   padding: 2px 15px 4px 14px;
 }
 
@@ -170,12 +171,12 @@ body {
   margin-bottom:80px;
   font-size: 24px;
   line-height: 28px;
-  width: 235px;
-  height: 60px;
+  width: 230px;
+  height: 50px;
   border: none;
   background:#5528FF;
   color:#FFF;
-  border-radius:10px;
+  border-radius:20px;
   padding: 2px 15px 4px 14px;
 }
 
