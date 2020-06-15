@@ -362,7 +362,7 @@ footer{
   display: flex;
   list-style: none;
   width: 216px;
-  margin: -60px 371px 38px 1000px;
+  margin: -4% 0 0 60%;
 }
 
 .footer-item{
@@ -373,7 +373,7 @@ footer{
 
 .footer-logo{
   position: relative;
-  margin: 20px 0 0 270px;
+  margin: 1% 0 0 18%;
   width: 60px;
   height: 60px;
 }
