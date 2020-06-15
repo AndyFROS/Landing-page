@@ -107,7 +107,7 @@ body {
 .header-title {
   font-size: 24px;
   line-height: 28px;
-  margin: auto 535px auto 0;
+  margin: auto 35% auto 0;
 }
 
 .navigation-item-link {
@@ -131,6 +131,7 @@ body {
 }
 
 .header-info-content {
+  width: 85%;
   font-size: 32px;
   line-height: 52px;
 }
